@@ -1,0 +1,1 @@
+import './style.css'; export const metadata={title:'LojaNova | Sua plataforma de lojas virtuais',description:'Demonstração da nova plataforma de e-commerce.'}; export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="pt-BR"><body>{children}</body></html>}
